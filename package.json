@@ -1,0 +1,25 @@
+{
+  "name": "libro-angular-cs",
+  "version": "1.0.0",
+  "description": "Libro (estitulo tutorial) de desarrollo con AngularJS y C#.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelerm/libro-angular-cs.git"
+  },
+  "keywords": [
+    "angularjs",
+    "book",
+    "ebook",
+    "csharp"
+  ],
+  "author": "Miguel Román",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/miguelerm/libro-angular-cs/issues"
+  },
+  "homepage": "https://github.com/miguelerm/libro-angular-cs#readme"
+}
